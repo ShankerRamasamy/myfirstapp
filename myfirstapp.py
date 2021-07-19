@@ -13,7 +13,7 @@ st.write(pd.DataFrame({
 }))
 
 
-
+df
 
 chart_data = pd.DataFrame(
      np.random.randn(20, 3),
